@@ -19,6 +19,12 @@
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/800e9ac7-8ec7-4f9c-bf0a-3ea6aca25c5a)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/33d4e896-6b17-4a20-b6bc-62c0021287f5)
 
+# SweetAlert
+![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/80d6aa97-79a1-45fe-8cdc-51d3131fdaab)
+![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/e33b8d98-4108-43a5-af9c-700711406f6b)
+![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/89fd8466-401e-471c-b938-c5270004acf0)
+
+
 # Php_Libros
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/e23d03a6-6784-460e-8fa4-ab4742cdde6e)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/f2fc469b-cc7e-487e-b466-8e8ad9e751e6)
