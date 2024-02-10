@@ -37,5 +37,6 @@
 # Modal_json
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/ce29a79f-eb05-4af4-a49b-0d27c3709e04)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/24a03c34-0a5f-4b69-a27a-301d02a57aa4)
+![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/82d0be21-fe53-4957-b8fc-cf46b6140a62)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/c19fdf33-b07f-4543-89a8-4f6d9328a4fa)
 
