@@ -1,5 +1,5 @@
 # ProyectoPrimerParcial
-En este repositorio se guarda la informacion de los archivos trabajados durante el curso, como archivos de html, php.
+# En este repositorio se guarda la informacion de los archivos trabajados durante el curso, como archivos de html, php.
 La fianlidad de este repositorio es guardar la informacion, cumpliendo la mision de portafolio de evidencias. 
 A continuacion se muestran las capturas de las actividades realizadas.Se puede acceder a el sin ningun tipo de restriccion.
 # Curriculum
