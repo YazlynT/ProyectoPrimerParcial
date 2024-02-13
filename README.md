@@ -1,5 +1,6 @@
 # ProyectoPrimerParcial
 # Curriculum
+En esta actividad se realizo un curriculum en html.
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/139090e9-f668-4638-a45d-bca8ae33ad09)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/c5dd872f-f0a9-43b9-8591-675bc9a271c8)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/a759d924-eb60-49c1-993f-d1eb7876194c)
