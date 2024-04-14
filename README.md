@@ -1,4 +1,4 @@
-# ProyectoPrimerParcial
+# ProyectoPrimerParcial Y Segundo parcial.
  En este repositorio se guarda la informacion de los archivos trabajados durante el curso, como archivos de html, php,
 La fianlidad de este repositorio es guardar la informacion, cumpliendo la mision de portafolio de evidencias. 
 A continuacion se muestran las capturas de las actividades realizadas.Se puede acceder a el sin ningun tipo de restriccion.
@@ -58,7 +58,4 @@ Finalmente en este archivo se muestran los datos de los libros impresos en una v
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/82d0be21-fe53-4957-b8fc-cf46b6140a62)
 ![image](https://github.com/YazlynT/ProyectoPrimerParcial/assets/159500082/c19fdf33-b07f-4543-89a8-4f6d9328a4fa)
 ![Uploading image.png…]()
-# ProyectoPrimerParcial
- En este repositorio se guarda la informacion de los archivos trabajados durante el curso, como archivos de html, php,
-La fianlidad de este repositorio es guardar la informacion, cumpliendo la mision de portafolio de evidencias. 
-A continuacion se muestran las capturas de las actividades realizadas.Se puede acceder a el sin ningun tipo de restriccion.
+
